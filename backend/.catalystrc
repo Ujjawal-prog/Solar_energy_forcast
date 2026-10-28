@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "93595000000013070",
+      "name": "Solar-Energy-Forecast",
+      "domain": {
+        "id": "50047228850",
+        "name": "solar-energy-forecast-60093615307.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60093615307",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

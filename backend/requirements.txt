@@ -1,0 +1,6 @@
+Flask
+gunicorn
+pandas
+python-dotenv
+requests
+zcatalyst-sdk
