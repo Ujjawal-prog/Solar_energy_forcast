@@ -1,0 +1,246 @@
+{
+  "generated_at": "2024-01-01 00:00:00",
+  "battery_capacity_kwh": 1000,
+  "forecast": [
+    {
+      "timestamp": "2024-01-01 00:00:00",
+      "ambient_temp_c": 28.1,
+      "humidity_pct": 66,
+      "solar_irradiance_wm2": 0,
+      "predicted_demand_kw": 125.2,
+      "grid_mode": "MAIN_GRID",
+      "overload": false,
+      "battery_soc_pct": 97
+    },
+    {
+      "timestamp": "2024-01-01 01:00:00",
+      "ambient_temp_c": 26.9,
+      "humidity_pct": 68,
+      "solar_irradiance_wm2": 0,
+      "predicted_demand_kw": 120.31,
+      "grid_mode": "MAIN_GRID",
+      "overload": false,
+      "battery_soc_pct": 100
+    },
+    {
+      "timestamp": "2024-01-01 02:00:00",
+      "ambient_temp_c": 26.2,
+      "humidity_pct": 69,
+      "solar_irradiance_wm2": 0,
+      "predicted_demand_kw": 117.44,
+      "grid_mode": "MAIN_GRID",
+      "overload": false,
+      "battery_soc_pct": 100
+    },
+    {
+      "timestamp": "2024-01-01 03:00:00",
+      "ambient_temp_c": 26,
+      "humidity_pct": 70,
+      "solar_irradiance_wm2": 0,
+      "predicted_demand_kw": 116.95,
+      "grid_mode": "MAIN_GRID",
+      "overload": false,
+      "battery_soc_pct": 100
+    },
+    {
+      "timestamp": "2024-01-01 04:00:00",
+      "ambient_temp_c": 26.2,
+      "humidity_pct": 69,
+      "solar_irradiance_wm2": 0,
+      "predicted_demand_kw": 118.19,
+      "grid_mode": "MAIN_GRID",
+      "overload": false,
+      "battery_soc_pct": 100
+    },
+    {
+      "timestamp": "2024-01-01 05:00:00",
+      "ambient_temp_c": 26.9,
+      "humidity_pct": 68,
+      "solar_irradiance_wm2": 0,
+      "predicted_demand_kw": 122.74,
+      "grid_mode": "MAIN_GRID",
+      "overload": false,
+      "battery_soc_pct": 100
+    },
+    {
+      "timestamp": "2024-01-01 06:00:00",
+      "ambient_temp_c": 28.1,
+      "humidity_pct": 66,
+      "solar_irradiance_wm2": 0,
+      "predicted_demand_kw": 131.05,
+      "grid_mode": "MAIN_GRID",
+      "overload": false,
+      "battery_soc_pct": 100
+    },
+    {
+      "timestamp": "2024-01-01 07:00:00",
+      "ambient_temp_c": 29.5,
+      "humidity_pct": 63,
+      "solar_irradiance_wm2": 233,
+      "predicted_demand_kw": 134.74,
+      "grid_mode": "MAIN_GRID",
+      "overload": false,
+      "battery_soc_pct": 100
+    },
+    {
+      "timestamp": "2024-01-01 08:00:00",
+      "ambient_temp_c": 31.2,
+      "humidity_pct": 59,
+      "solar_irradiance_wm2": 450,
+      "predicted_demand_kw": 140.05,
+      "grid_mode": "MAIN_GRID",
+      "overload": false,
+      "battery_soc_pct": 100
+    },
+    {
+      "timestamp": "2024-01-01 09:00:00",
+      "ambient_temp_c": 33,
+      "humidity_pct": 55,
+      "solar_irradiance_wm2": 636,
+      "predicted_demand_kw": 144.38,
+      "grid_mode": "MAIN_GRID",
+      "overload": false,
+      "battery_soc_pct": 100
+    },
+    {
+      "timestamp": "2024-01-01 10:00:00",
+      "ambient_temp_c": 34.8,
+      "humidity_pct": 51,
+      "solar_irradiance_wm2": 779,
+      "predicted_demand_kw": 147.99,
+      "grid_mode": "MAIN_GRID",
+      "overload": false,
+      "battery_soc_pct": 100
+    },
+    {
+      "timestamp": "2024-01-01 11:00:00",
+      "ambient_temp_c": 36.5,
+      "humidity_pct": 48,
+      "solar_irradiance_wm2": 869,
+      "predicted_demand_kw": 152.16,
+      "grid_mode": "MAIN_GRID",
+      "overload": false,
+      "battery_soc_pct": 100
+    },
+    {
+      "timestamp": "2024-01-01 12:00:00",
+      "ambient_temp_c": 37.9,
+      "humidity_pct": 44,
+      "solar_irradiance_wm2": 900,
+      "predicted_demand_kw": 159.62,
+      "grid_mode": "MAIN_GRID",
+      "overload": false,
+      "battery_soc_pct": 100
+    },
+    {
+      "timestamp": "2024-01-01 13:00:00",
+      "ambient_temp_c": 39.1,
+      "humidity_pct": 42,
+      "solar_irradiance_wm2": 869,
+      "predicted_demand_kw": 171.79,
+      "grid_mode": "RENEWABLE_STORAGE",
+      "overload": false,
+      "battery_soc_pct": 94
+    },
+    {
+      "timestamp": "2024-01-01 14:00:00",
+      "ambient_temp_c": 39.8,
+      "humidity_pct": 41,
+      "solar_irradiance_wm2": 779,
+      "predicted_demand_kw": 184.31,
+      "grid_mode": "RENEWABLE_STORAGE",
+      "overload": false,
+      "battery_soc_pct": 87.5
+    },
+    {
+      "timestamp": "2024-01-01 15:00:00",
+      "ambient_temp_c": 40,
+      "humidity_pct": 40,
+      "solar_irradiance_wm2": 636,
+      "predicted_demand_kw": 192.9,
+      "grid_mode": "RENEWABLE_STORAGE",
+      "overload": false,
+      "battery_soc_pct": 80.8
+    },
+    {
+      "timestamp": "2024-01-01 16:00:00",
+      "ambient_temp_c": 39.8,
+      "humidity_pct": 41,
+      "solar_irradiance_wm2": 450,
+      "predicted_demand_kw": 196.78,
+      "grid_mode": "RENEWABLE_STORAGE",
+      "overload": false,
+      "battery_soc_pct": 73.9
+    },
+    {
+      "timestamp": "2024-01-01 17:00:00",
+      "ambient_temp_c": 39.1,
+      "humidity_pct": 42,
+      "solar_irradiance_wm2": 233,
+      "predicted_demand_kw": 199.58,
+      "grid_mode": "RENEWABLE_STORAGE",
+      "overload": false,
+      "battery_soc_pct": 66.9
+    },
+    {
+      "timestamp": "2024-01-01 18:00:00",
+      "ambient_temp_c": 37.9,
+      "humidity_pct": 44,
+      "solar_irradiance_wm2": 0,
+      "predicted_demand_kw": 206.45,
+      "grid_mode": "RENEWABLE_STORAGE",
+      "overload": true,
+      "battery_soc_pct": 59.7
+    },
+    {
+      "timestamp": "2024-01-01 19:00:00",
+      "ambient_temp_c": 36.5,
+      "humidity_pct": 48,
+      "solar_irradiance_wm2": 0,
+      "predicted_demand_kw": 209.64,
+      "grid_mode": "RENEWABLE_STORAGE",
+      "overload": true,
+      "battery_soc_pct": 52.3
+    },
+    {
+      "timestamp": "2024-01-01 20:00:00",
+      "ambient_temp_c": 34.8,
+      "humidity_pct": 51,
+      "solar_irradiance_wm2": 0,
+      "predicted_demand_kw": 205.47,
+      "grid_mode": "RENEWABLE_STORAGE",
+      "overload": true,
+      "battery_soc_pct": 45.2
+    },
+    {
+      "timestamp": "2024-01-01 21:00:00",
+      "ambient_temp_c": 33,
+      "humidity_pct": 55,
+      "solar_irradiance_wm2": 0,
+      "predicted_demand_kw": 187.78,
+      "grid_mode": "RENEWABLE_STORAGE",
+      "overload": false,
+      "battery_soc_pct": 38.6
+    },
+    {
+      "timestamp": "2024-01-01 22:00:00",
+      "ambient_temp_c": 31.2,
+      "humidity_pct": 59,
+      "solar_irradiance_wm2": 0,
+      "predicted_demand_kw": 163.33,
+      "grid_mode": "RENEWABLE_STORAGE",
+      "overload": false,
+      "battery_soc_pct": 32.9
+    },
+    {
+      "timestamp": "2024-01-01 23:00:00",
+      "ambient_temp_c": 29.5,
+      "humidity_pct": 63,
+      "solar_irradiance_wm2": 0,
+      "predicted_demand_kw": 141.96,
+      "grid_mode": "MAIN_GRID",
+      "overload": false,
+      "battery_soc_pct": 39.9
+    }
+  ]
+}
